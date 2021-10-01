@@ -5,7 +5,7 @@ This repo collects the genesis and configuration files for the various Moonbys.c
 
 Getting Started
 
-To get started with the latest testnet, see the [docs](https://www.moonbys.com/docs).
+To get started with the latest testnet, see the [docs](https://www.docs.moonbys.com).
 
 Testnet Status
 
