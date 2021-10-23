@@ -1,4 +1,6 @@
-Triton is the first MOONBYS testnet 
+Triton is the first MOONBYS testnet
+
+This was/is a private testnet. 
 
 This Intro file explains why we named this testnet Triton
 
