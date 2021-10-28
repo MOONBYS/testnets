@@ -18,4 +18,4 @@ Info coming soon!
 
 ### Info about Pan, one of Saturn's unique moons.
 
-[Intro] - (intro.txt)
+[Intro] - (intro)
