@@ -1,6 +1,6 @@
-#Pan Blockchain
+# Pan Blockchain
 
-##The first MOONBYS.com public testchain
+## The first MOONBYS.com public testchain
 
 ***
 
@@ -18,4 +18,4 @@ Info coming soon!
 
 ### Info about Pan, one of Saturn's unique moons.
 
-[Intro] - (intro)
+[Intro] - (intro.txt)
